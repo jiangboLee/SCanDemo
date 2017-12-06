@@ -394,6 +394,7 @@
     block(mutableStr.copy);
 }
 ```
-###### ok~ 基本核心功能代码都结束。具体可以下载demo看看哦~![源文件太大免费压缩还有水印，哎~.gif](http://upload-images.jianshu.io/upload_images/2868618-790a7a9ff2d70103.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+###### ok~ 基本核心功能代码都结束。具体可以下载demo看看哦~!
+[项目演示.gif](https://github.com/jiangboLee/SCanDemo/blob/master/demo.gif)
 
 
