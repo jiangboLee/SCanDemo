@@ -1,5 +1,5 @@
 # SCanDemo
-轻量级扫一扫，二维码
+## 轻量级扫一扫，二维码
 由于项目中需要有扫一扫功能，那是开发周期比较紧张，就直接GitHub找了`ZXingObjC`直接使用。但是发现这个第三方功能太齐全，对于我显得太笨重。根本不需要那么多功能。所以就自己东抄抄西抄抄整理了一份轻量级的demo。
 话不多说，有需要的可以下载使用。
 现在分析项目整体功能：
@@ -395,6 +395,6 @@
 }
 ```
 ###### ok~ 基本核心功能代码都结束。具体可以下载demo看看哦~!
-[项目演示.gif](https://github.com/jiangboLee/SCanDemo/blob/master/demo.gif)
+![项目演示.gif](https://github.com/jiangboLee/SCanDemo/blob/master/demo.gif)
 
 
