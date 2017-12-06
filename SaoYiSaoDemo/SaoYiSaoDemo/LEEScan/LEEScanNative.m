@@ -137,8 +137,6 @@
         CGAffineTransform transform = self.videoPreView.transform;
         self.videoPreView.transform = CGAffineTransformScale(transform, zoom, zoom);
     }
-    
-    
 }
 - (AVCaptureConnection *)connectionWithMediaType:(NSString *)mediaType fromConnections:(NSArray *)connections {
     for (AVCaptureConnection *connection in connections) {

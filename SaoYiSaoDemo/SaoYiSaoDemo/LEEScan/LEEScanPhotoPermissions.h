@@ -10,8 +10,14 @@
 
 @interface LEEScanPhotoPermissions : NSObject
 
+/**
+ 相机权限
+ */
 + (BOOL)cameraPemission;
 
+/**
+请求相机
+*/
 + (void)requestCameraPemissionWithResult:(void(^)(BOOL granted))completion;
 
 + (BOOL)photoPermission;
